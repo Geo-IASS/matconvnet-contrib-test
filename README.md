@@ -7,5 +7,7 @@ This is a list of active MatConvNet contribution repositories.
 * [mcnBReNorm](https://github.com/albanie/mcnBReNorm) Batch Renomralization.
 * [mcnUtils](https://github.com/albanie/mcnUtils) Some common utilities.
 * [test](https://github.com/vlfeat/test) Non-existing test contribution.
+* [mcn_module_demo](https://github.com/albanie/building-matconvnet-modules) How to build a module.
+
 
 To see more details about the contributions, please follow the link.
